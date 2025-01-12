@@ -7,12 +7,12 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Husky</copyright>
-        <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://huayuntao.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title></title>
-        <link>https://huayuntao.github.io/p/</link>
-        <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+        <lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://huayuntao.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>知识整理</title>
+        <link>https://huayuntao.github.io/p/%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86/</link>
+        <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://huayuntao.github.io/p/</guid>
+        <guid>https://huayuntao.github.io/p/%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86/</guid>
         <description>&lt;h3 id=&#34;bert&#34;&gt;BERT
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;BERT 利用基于 Transformer 的神经网络来理解和生成类似人类的语言。BERT 采用仅编码器的架构。在原始 Transformer 架构中，既有编码器模块，也有解码器模块。在 BERT 中使用仅编码器架构的决定表明主要强调理解输入序列而不是生成输出序列。&lt;/li&gt;
@@ -37,10 +37,10 @@
 &lt;li&gt;为了进一步增强记忆网络的记忆容量，可以映入外部记忆单元和读写机制，用来保存一些网络的中间状态，称为记忆增强网络，比如神经图灵机。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;dpr&#34;&gt;DPR
-&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://huayuntao.github.io/p/%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86.assets/image-20241226191337923.png&#34;
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://huayuntao.github.io/p/%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86/%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86.assets/image-20241226191337923.png&#34;
 	width=&#34;1476&#34;
 	height=&#34;979&#34;
-	srcset=&#34;https://huayuntao.github.io/p/%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86.assets/image-20241226191337923_hu13757985786651539223.png 480w, https://huayuntao.github.io/p/%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86.assets/image-20241226191337923_hu3656060321902152557.png 1024w&#34;
+	srcset=&#34;https://huayuntao.github.io/p/%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86/%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86.assets/image-20241226191337923_hu13757985786651539223.png 480w, https://huayuntao.github.io/p/%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86/%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86.assets/image-20241226191337923_hu3656060321902152557.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image-20241226191337923&#34;
@@ -53,10 +53,10 @@
 &gt;&lt;/p&gt;
 &lt;h3 id=&#34;监督微调&#34;&gt;监督微调
 &lt;/h3&gt;&lt;p&gt;监督微调（Supervised Fine-Tuning）是一种旨在通过利用标注数据进一步提升预训练模型性能的方法。该过程使用任务或领域特定的训练数据对模型进行调优，以更好地执行特定任务或满足某些应用需求。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://huayuntao.github.io/p/%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86.assets/image-20241230142405779.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://huayuntao.github.io/p/%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86/%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86.assets/image-20241230142405779.png&#34;
 	width=&#34;1471&#34;
 	height=&#34;873&#34;
-	srcset=&#34;https://huayuntao.github.io/p/%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86.assets/image-20241230142405779_hu9533315794972471782.png 480w, https://huayuntao.github.io/p/%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86.assets/image-20241230142405779_hu13289445462515903377.png 1024w&#34;
+	srcset=&#34;https://huayuntao.github.io/p/%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86/%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86.assets/image-20241230142405779_hu9533315794972471782.png 480w, https://huayuntao.github.io/p/%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86/%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86.assets/image-20241230142405779_hu13289445462515903377.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image-20241230142405779&#34;
@@ -68,10 +68,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h3 id=&#34;无监督模型和自监督模型&#34;&gt;无监督模型和自监督模型
-&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://huayuntao.github.io/p/%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86.assets/image-20241230143816320.png&#34;
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://huayuntao.github.io/p/%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86/%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86.assets/image-20241230143816320.png&#34;
 	width=&#34;1476&#34;
 	height=&#34;1053&#34;
-	srcset=&#34;https://huayuntao.github.io/p/%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86.assets/image-20241230143816320_hu8501373937880315569.png 480w, https://huayuntao.github.io/p/%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86.assets/image-20241230143816320_hu1071250666523237163.png 1024w&#34;
+	srcset=&#34;https://huayuntao.github.io/p/%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86/%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86.assets/image-20241230143816320_hu8501373937880315569.png 480w, https://huayuntao.github.io/p/%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86/%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86.assets/image-20241230143816320_hu1071250666523237163.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image-20241230143816320&#34;
@@ -83,10 +83,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;h3 id=&#34;自回归模型&#34;&gt;自回归模型
-&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://huayuntao.github.io/p/%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86.assets/image-20241228115534886.png&#34;
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://huayuntao.github.io/p/%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86/%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86.assets/image-20241228115534886.png&#34;
 	width=&#34;1466&#34;
 	height=&#34;675&#34;
-	srcset=&#34;https://huayuntao.github.io/p/%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86.assets/image-20241228115534886_hu10495646402203481236.png 480w, https://huayuntao.github.io/p/%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86.assets/image-20241228115534886_hu14313264966756334223.png 1024w&#34;
+	srcset=&#34;https://huayuntao.github.io/p/%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86/%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86.assets/image-20241228115534886_hu10495646402203481236.png 480w, https://huayuntao.github.io/p/%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86/%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86.assets/image-20241228115534886_hu14313264966756334223.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;image-20241228115534886&#34;
